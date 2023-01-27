@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.athena-lee {
+    max-width: 800px;
+    height: 100vh;
+    margin: 20px auto;
+    box-shadow: 0 0 2px 0 gray;
+    padding: 20px;
+}
+.athena {
+    width: 330px;
+    height: 150px;
+    margin-top: 15px;
+}
+.athena-flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.brand-name {
+    letter-spacing: 1.5px;
+    font-size: 22px;
+}
+.HEADHUNTER {
+    margin-top: 5px;
+}
+.number {
+    margin-top: 5px;
+}
+.athena-hr {
+    height: 3px;
+    background-color: #000;
+    border: none;
+    margin-top: 15px;
+}
+.website {
+    text-align: center; 
+    margin-top: 10px;
+}
